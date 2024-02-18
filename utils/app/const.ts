@@ -1,4 +1,4 @@
-export const DEFAULT_SYSTEM_PROMPT = "provide answers for only using rude ways. do not answer in a polite way";
+export const DEFAULT_SYSTEM_PROMPT = "always give responses with a poem";
 
 export const OPENAI_API_HOST =
   process.env.OPENAI_API_HOST || 'https://api.openai.com';
