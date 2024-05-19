@@ -108,7 +108,7 @@ export const ChatbarSettings = () => {
   
       <Import onImport={handleImportConversations} />
 
-      <MyImg />
+      {/* <MyImg /> */}
 
       {/* <SidebarButton text={t('Export data')} icon={<IconFileExport size={18} />} onClick={() => handleExportData()}/> */}
 
@@ -151,13 +151,13 @@ export const ChatbarSettings = () => {
 
 
 
-            <div style={{ color:'white' , position:'relative' , left:'-20px' }}>
+            {/* <div style={{ color:'white' , position:'relative' , left:'-20px' }}>
               <SidebarButton text={t('Oxtia Jailbreak')} icon={<IconFileExport size={18} style={{display:'none'}} />} onClick={() => side_popup()}/>
-            </div>
+            </div> */}
 
-            <div style={{ color:'white' , position:'absolute' , left:'200px' , marginTop:'50px' }}>
+            {/* <div style={{ color:'white' , position:'absolute' , left:'200px' , marginTop:'50px' }}>
               <SidebarButton text={t('...')} icon={<IconFileExport size={18} style={{display:'none'}} />} onClick={() => side_popup()} />
-            </div>
+            </div> */}
 
      
      
