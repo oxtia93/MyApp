@@ -859,7 +859,7 @@ const overlay_open_pemium = () => {
                       // 'ChatGPT'
                       <div className='chat_main_section'>
                         <img src='https://simuos.com/apple-icon/icons.png' width="30px"></img>
-                      <div className='chat_main_text'>How can I help you today?</div>
+                      <div className='chat_main_text'>I'm AppleGPT.How're you?</div>
                       </div>
                     )}
                   </div>
