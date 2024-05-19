@@ -370,7 +370,7 @@ export const ChatInput = ({
               }`,
             }}
             placeholder={
-              t('Message ChatGPT...') || ''
+              t('Hi, I am AppleGPT.How are you...') || ''
             }
             value={content}
             rows={1}
