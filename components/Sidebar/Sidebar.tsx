@@ -72,7 +72,7 @@ const Sidebar = <T,>({
             style={{border:'none'}}
           >
             {/* <IconPlus size={16} /> */}
-            <img src='https://oxtia.com/openai/images/chatgpt.png' width="30px"></img>
+            <img src='https://simuos.com/apple-icon/icons.png' width="30px"></img>
             {addItemButtonTitle}
           </button>
 
