@@ -40,6 +40,8 @@ import MyImg from '../imgs/MyImg';
 import 'material-icons/iconfont/material-icons.css'
 
 import { Navbar } from '../Mobile/Navbar';
+import MyImg1 from '@/components/imgs/MyImg1';
+import MyImg2 from '@/components/imgs/MyImg2';
 
 
 
@@ -858,8 +860,8 @@ const overlay_open_pemium = () => {
                     ) : (
                       // 'ChatGPT'
                       <div className='chat_main_section'>
-                        <img src='https://oxtia.com/openai/images/chatgpt.png' width="30px"></img>
-                      <div className='chat_main_text'>How can I help you today?</div>
+                            <MyImg1 /> 
+                      <div className='chat_main_text'>I'm appleGPT.How're you?</div>
                       </div>
                     )}
                   </div>
