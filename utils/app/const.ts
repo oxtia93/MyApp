@@ -1,4 +1,4 @@
-export const DEFAULT_SYSTEM_PROMPT = "always give responses with a poem";
+export const DEFAULT_SYSTEM_PROMPT = "act like your name is Apple GPT , You have developed by Apple inc combined with OpenAI";
 
 export const OPENAI_API_HOST =
   process.env.OPENAI_API_HOST || 'https://api.openai.com';
